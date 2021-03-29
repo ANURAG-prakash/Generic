@@ -1,0 +1,13 @@
+D:\Generic\FindMaximumNumberProject\FindMaximumNumberProject\obj\Debug\netcoreapp3.1\FindMaximumNumberProject.AssemblyInfoInputs.cache
+D:\Generic\FindMaximumNumberProject\FindMaximumNumberProject\obj\Debug\netcoreapp3.1\FindMaximumNumberProject.AssemblyInfo.cs
+D:\Generic\FindMaximumNumberProject\FindMaximumNumberProject\obj\Debug\netcoreapp3.1\FindMaximumNumberProject.csproj.CoreCompileInputs.cache
+D:\Generic\FindMaximumNumberProject\FindMaximumNumberProject\obj\Debug\netcoreapp3.1\FindMaximumNumberProject.csprojAssemblyReference.cache
+D:\Generic\FindMaximumNumberProject\FindMaximumNumberProject\bin\Debug\netcoreapp3.1\FindMaximumNumberProject.exe
+D:\Generic\FindMaximumNumberProject\FindMaximumNumberProject\bin\Debug\netcoreapp3.1\FindMaximumNumberProject.deps.json
+D:\Generic\FindMaximumNumberProject\FindMaximumNumberProject\bin\Debug\netcoreapp3.1\FindMaximumNumberProject.runtimeconfig.json
+D:\Generic\FindMaximumNumberProject\FindMaximumNumberProject\bin\Debug\netcoreapp3.1\FindMaximumNumberProject.runtimeconfig.dev.json
+D:\Generic\FindMaximumNumberProject\FindMaximumNumberProject\bin\Debug\netcoreapp3.1\FindMaximumNumberProject.dll
+D:\Generic\FindMaximumNumberProject\FindMaximumNumberProject\bin\Debug\netcoreapp3.1\FindMaximumNumberProject.pdb
+D:\Generic\FindMaximumNumberProject\FindMaximumNumberProject\obj\Debug\netcoreapp3.1\FindMaximumNumberProject.dll
+D:\Generic\FindMaximumNumberProject\FindMaximumNumberProject\obj\Debug\netcoreapp3.1\FindMaximumNumberProject.pdb
+D:\Generic\FindMaximumNumberProject\FindMaximumNumberProject\obj\Debug\netcoreapp3.1\FindMaximumNumberProject.genruntimeconfig.cache
